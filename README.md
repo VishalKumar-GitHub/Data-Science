@@ -115,4 +115,4 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](https://github.com/VishalKumar-GitHub/Data-Science/blob/main/LICENSE) file for details.
